@@ -1,0 +1,10 @@
+# python
+venv
+
+# PyCharm
+.idea
+
+# appimage-builder
+AppDir
+appimage-builder-cache
+*.AppImage*
